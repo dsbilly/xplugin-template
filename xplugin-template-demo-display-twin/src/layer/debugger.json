@@ -1,0 +1,22 @@
+{
+  "condition": {
+    "name": "园区",
+    "where": "classType",
+    "classType": "Campus"
+  },
+  "config": {
+    "digitalTwinsSelector": [
+      {
+        "condition": ".Building",
+        "value": "垃圾桶-顶部标题-太空旅客"
+      },
+      {
+        "condition": ".Floor"
+      },
+      {
+        "condition": ".Room",
+        "value": "垃圾桶-顶部标题-太空旅客11"
+      }
+    ]
+  }
+}

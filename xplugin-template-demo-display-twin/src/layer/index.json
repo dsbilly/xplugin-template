@@ -1,0 +1,74 @@
+[
+  {
+    "key": "title_3211",
+    "label": "基础配置",
+    "description": "",
+    "type": "title"
+  },
+  {
+    "key": "digitalTwinsSelector",
+    "label": "应用孪生体集合",
+    "value": [],
+    "placeholder": [
+      "",
+      ""
+    ],
+    "description": "",
+    "hidden": false,
+    "readonly": false,
+    "required": false,
+    "prefix": "",
+    "suffix": "",
+    "type": "multiple-selector-attachment"
+  },
+  {
+    "key": "title_3222",
+    "label": "显示效果",
+    "description": "",
+    "type": "title"
+  },
+  {
+    "key": "effect",
+    "label": "",
+    "value": [
+      {
+        "type": "effect1",
+        "value": "",
+        "label": ""
+      },
+      {
+        "type": "effect2",
+        "value": "",
+        "label": ""
+      },
+      {
+        "type": "effect3",
+        "value": "",
+        "label": ""
+      },
+      {
+        "type": "effect4",
+        "value": "",
+        "label": ""
+      },
+      {
+        "type": "effect5",
+        "value": "",
+        "label": ""
+      },
+      {
+        "type": "effect6",
+        "value": "",
+        "label": ""
+      }
+    ],
+    "description": "",
+    "placeholder": "",
+    "hidden": false,
+    "readonly": false,
+    "required": false,
+    "prefix": "",
+    "suffix": "",
+    "type": "effect"
+  }
+]
